@@ -1,0 +1,13 @@
+# Build artifacts
+.zig-cache/
+zig-out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings (optional, based on what you use)
+.vscode/
+.idea/
+*.swp
+*.swo
