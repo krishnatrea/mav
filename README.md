@@ -49,7 +49,7 @@ Memory map
 1. Clone the repository:
    ```bash
    git clone https://github.com/krishnatrea/mav.git
-   cd memory-allocator-visualizer
+   cd mav
    ```
 
 2. Build and run the project (if using Zig):
